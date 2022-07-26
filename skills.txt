@@ -1,0 +1,21 @@
+
+Name your 3 main technical skills and support them with arguments.
+html
+css
+java
+Name your 3 main generic skills (Soft Skills) and support them with arguments.
+responsible
+creativity
+ponctuel
+Name 3 of your main values and 3 of your main anti-values.
+positivity
+respect
+open-mindless
+
+Name 3 necessary skills that you would like to build or acquire.
+detail-oririented
+communication
+problem solving
+
+Name your professional objective (SMART)
+computer-science teacher
